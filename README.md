@@ -3,6 +3,9 @@
 Tady se bude něco dít, ale teď nemám čas
 
 ## S
+|Pic|Name|year|
+|:---:|:----:|:-----:|
+|<img src="https://upload.wikimedia.org/wikipedia/en/4/43/Star_Wars_Jedi_Survivor.jpg" width="96px">|Star Wars Jedi: Survivor|2023|
 
 ## A
 |Pic|Name|year|
