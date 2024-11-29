@@ -16,9 +16,18 @@ Tady se bude něco dít, ale teď nemám čas
 |<img src="https://upload.wikimedia.org/wikipedia/en/5/53/Avatar_Frontiers_of_Pandora_cover.jpg" width="96px">|Avatar: Frontiers of Pandora|2023|
 
 ## C
+|Pic|Name|year|
+|:---:|:----:|:-----:|
+|<img src="https://upload.wikimedia.org/wikipedia/en/a/a1/Avatar-video-game-cover.jpg" width="96px">|Avatar: The Game|2009|
 
 ## D
+|Pic|Name|year|
+|:---:|:----:|:-----:|
 
 ## E
+|Pic|Name|year|
+|:---:|:----:|:-----:|
 
 ## F
+|Pic|Name|year|
+|:---:|:----:|:-----:|
